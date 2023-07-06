@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140133549446",
+    "project_id": "sumber-artha-project",
+    "storage_bucket": "sumber-artha-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140133549446:android:e1694812d24d390b211807",
+        "android_client_info": {
+          "package_name": "com.sumberartha.pragmademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140133549446-g415etljo82182i4ampvjc5h643ei5g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumberartha.pragmademo",
+            "certificate_hash": "361fe3c210392433a87aa085ca469fbe1b3e3004"
+          }
+        },
+        {
+          "client_id": "140133549446-scrptr9qc00lpvbpbv6u3v55tb9tnblc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3d6OYvng50UeOCns4RAdDAk08WxkeFlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140133549446-scrptr9qc00lpvbpbv6u3v55tb9tnblc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
